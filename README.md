@@ -2,26 +2,22 @@
 
 This repo mainly summary latest research advances on semantic slot filling.
 
-# Hello
-
-[Hello](#hello)
-
 # Performance
-| Methods | F1 |
-| ------ | ------ |
-| Simple RNN | 0.9411 |
-| CNN-CRF | 0.9435 |
-|  LSTM | 0.9485 |
-| RNN-SOP | 0.9489 |
-| Deep LSTM | 0.9508 |
-| RNN-EM | 0.9525 |
-| Bi-RNN with ranking loss | 0.9547 |
-| Sequential CNN | 0.9561 |
-| Encoder-labeler Deep LSTM | 0.9566 |
-| BiLSTM-LSTM (focus) | 0.9579 |
-| Neural Sequence Chunking | 0.9586 |
+| Methods | F1 | Author| Published Address |Paper|
+| ------ | ------ |------ |------ |------ |
+| Simple RNN | 0.9411 |Yao, Kaisheng, et al. |Interspeech 2013|["Recurrent neural networks for language understanding."](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)|
+| CNN-CRF | 0.9435 | zzw|2018 |2018|
+|  LSTM | 0.9485 |zzw |2018 |2018|
+| RNN-SOP | 0.9489 | zzw|2018 |2018|
+| Deep LSTM | 0.9508 |zzw | 2018|2018|
+| RNN-EM | 0.9525 | zzw|2018 |2018|
+| Bi-RNN with ranking loss | 0.9547 |zzw | 2018|2018|
+| Sequential CNN | 0.9561 | zzw|2018 |2018|
+| Encoder-labeler Deep LSTM | 0.9566 | zzw| 2018|2018|
+| BiLSTM-LSTM (focus) | 0.9579 |zzw | 2018|2018|
+| Neural Sequence Chunking | 0.9586 |zzw |2018 |2018|
 # Related Papers
-1.[ Yao, Kaisheng, et al. "Recurrent neural networks for language understanding." Interspeech 2013.](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
+1.["Recurrent neural networks for language understanding."](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
 
 2.[ Mesnil, Grégoire, et al. "Using recurrent neural networks for slot filling in spoken language understanding." IEEE/ACM Transactions on Audio, Speech, and Language Processing 2015](https://ieeexplore.ieee.org/abstract/document/6998838)
 
