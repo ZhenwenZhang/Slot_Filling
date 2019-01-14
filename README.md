@@ -4,7 +4,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 # Performance
 | Methods | F1 | Published Address |Paper|
-| ------ | ------ |------ |------------ |------ |
+| ------ | ------ |------ |------------ |
 | Simple RNN | 0.9411 |Interspeech, 2013|Link|
 | CNN-CRF | 0.9435 | ASRU,2013 |Link|
 |  LSTM | 0.9485 |SLT Workshop,2014 |Link|
