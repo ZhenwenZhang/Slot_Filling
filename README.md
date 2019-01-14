@@ -2,7 +2,7 @@
 
 This repo mainly summary latest research advances on semantic slot filling.
 
-# Related Papers:
+# Related Papers
 1.[ Zhang, Xiaodong, and Houfeng Wang. "A Joint Model of Intent Determination and Slot Filling for Spoken Language Understanding." IJCAI 2016](https://www.ijcai.org/Proceedings/16/Papers/425.pdf)
 
 2.[ Liu, Bing, and Ian Lane. "Attention-based recurrent neural network models for joint intent detection and slot filling." Interspeech 2016](https://arxiv.org/abs/1609.01454)
