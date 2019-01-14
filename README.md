@@ -17,6 +17,6 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 7.[ Constantin, Stefan, Jan Niehues, and Alex Waibel. "Multi-task learning to improve natural language understanding." 2018](https://arxiv.org/abs/1812.06876.pdf)
 
-8.[ Zhao, Lin, and Zhe Feng. "Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention." Proceedings of the 56th ACL. 2018](http://www.aclweb.org/anthology/P18-2068)
+8.[ Zhao, Lin, and Zhe Feng. "Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention." ACL 2018](http://www.aclweb.org/anthology/P18-2068)
 
 9.[ Yao, Kaisheng, et al. "Recurrent neural networks for language understanding." Interspeech 2013.](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
