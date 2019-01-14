@@ -20,7 +20,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 # Related Papers
 
-[Zhai, Feifei, et al. "Neural Models for Sequence Chunking." AAAI. 2017.](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262)
+**[Zhai, Feifei, et al. "Neural Models for Sequence Chunking." AAAI. 2017.](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262)**
 
 [Zhu, Su, and Kai Yu. "Encoder-decoder with focus-mechanism for sequence labelling based spoken language understanding." 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.](https://ieeexplore.ieee.org/abstract/document/7953243)
 
