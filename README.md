@@ -2,8 +2,9 @@
 
 This repo mainly summary latest research advances on semantic slot filling.
 
-对于标题#Hello
-正确的链接方式是[Hello](#hello)
+# Hello
+
+[Hello](#hello)
 
 # Performance
 | Methods | F1 |
