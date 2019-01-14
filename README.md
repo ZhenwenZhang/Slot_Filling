@@ -7,14 +7,11 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 - **Model**
 
-    ![Model Structure](imgs/1.png)
 - **DataSet**
     - ATIS 
     - CQUD (Chinese Question Understanding Dataset)
 - **Experiment Result**
 
-![](imgs/2.png)
-![](imgs/3.png)
 
 2.[ Mesnil, Grégoire, et al. "Using recurrent neural networks for slot filling in spoken language understanding." IEEE/ACM Transactions on Audio, Speech, and Language Processing 2015](https://ieeexplore.ieee.org/abstract/document/6998838)
 
