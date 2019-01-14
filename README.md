@@ -10,7 +10,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 |  LSTM | 0.9485 |SLT Workshop,2014 |Link|
 | RNN-SOP | 0.9489 |NIPS Workshop,2015 |Link|
 | Deep LSTM | 0.9508  | SLT Workshop,2014|Link|
-| RNN-EM | 0.9525 |2018 |Link|
+| RNN-EM | 0.9525 |arXiv,2015 |Link|
 | Bi-RNN with ranking loss | 0.9547| 2018|Link|
 | Sequential CNN | 0.9561|2018 |Link|
 | Encoder-labeler Deep LSTM | 0.9566| das|Link|
@@ -18,7 +18,11 @@ This repo mainly summary latest research advances on semantic slot filling.
 | Neural Sequence Chunking | 0.9586 |2018 |Link|
 # Related Papers
 
-1.[Liu, B., and Lane, I. 2015. Recurrent neural network structured output prediction for spoken language understanding. In NIPS Workshop.](https://pdfs.semanticscholar.org/b75b/59f38c874a920102834c9e218c960fc35c81.pdf)
+
+
+ [Peng, Baolin, and Kaisheng Yao. "Recurrent neural networks with external memory for language understanding." arXiv preprint arXiv:1506.00195 (2015).](https://arxiv.org/abs/1506.00195.pdf)
+
+1.[Peng, B., and Yao, K. 2015. Recurrent neural networks with external memory for language understanding.arXiv.](https://ieeexplore.ieee.org/abstract/document/7078572)
 
 
 1.[Liu, B., and Lane, I. 2015. Recurrent neural network structured output prediction for spoken language understanding. In NIPS Workshop.](https://pdfs.semanticscholar.org/b75b/59f38c874a920102834c9e218c960fc35c81.pdf)
