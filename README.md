@@ -3,9 +3,20 @@
 This repo mainly summary latest research advances on semantic slot filling.
 
 # Performance
-| W| W|@|
-|---|---|---|
-|s|s|s|
+
+| Methods | F1 |
+| ------ | ------ |
+| simple RNN | 0.9411 |
+| CNN-CRF | 0.9435 |
+|  LSTM | 0.9485 |
+| RNN-SOP | 0.9489 |
+| Deep LSTM | 0.9508 |
+| RNN-EM | 0.9525 |
+| Bi-RNN with ranking loss | 0.9547 |
+| Sequential CNN | 0.9561 |
+| Encoder-labeler Deep LSTM | 0.9566 |
+| BiLSTM-LSTM (focus) | 0.9579 |
+| Neural Sequence Chunking | 0.9586 |
 # Related Papers
 1.[ Yao, Kaisheng, et al. "Recurrent neural networks for language understanding." Interspeech 2013.](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
 
