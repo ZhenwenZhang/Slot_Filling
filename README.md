@@ -3,20 +3,29 @@
 This repo mainly summary latest research advances on semantic slot filling.
 
 # Performance
-| Methods | F1 | Author| Published Address |Paper|
+| Methods | F1 | Published Address |Paper|
 | ------ | ------ |------ |------------ |------ |
-| Simple RNN | 0.9411 |Yao, Kaisheng, et al. |Interspeech 2013|Link|
-| CNN-CRF | 0.9435 | Xu, P., and Sarikaya, R.|2013 ASRU |Link|
-|  LSTM | 0.9485 |zzw |2018 |Link|
-| RNN-SOP | 0.9489 | zzw|2018 |Link|
-| Deep LSTM | 0.9508 |zzw | 2018|Link|
-| RNN-EM | 0.9525 | zzw|2018 |Link|
-| Bi-RNN with ranking loss | 0.9547 |zzw | 2018|Link|
-| Sequential CNN | 0.9561 | zzw|2018 |Link|
-| Encoder-labeler Deep LSTM | 0.9566 | zzw| 2018|Link|
-| BiLSTM-LSTM (focus) | 0.9579 |zzw | 2018|Link|
-| Neural Sequence Chunking | 0.9586 |zzw |2018 |Link|
+| Simple RNN | 0.9411 |Interspeech, 2013|Link|
+| CNN-CRF | 0.9435 | ASRU,2013 |Link|
+|  LSTM | 0.9485 |SLT Workshop,2014 |Link|
+| RNN-SOP | 0.9489 |NIPS Workshop,2015 |Link|
+| Deep LSTM | 0.9508  | SLT Workshop,2014|Link|
+| RNN-EM | 0.9525 |2018 |Link|
+| Bi-RNN with ranking loss | 0.9547| 2018|Link|
+| Sequential CNN | 0.9561|2018 |Link|
+| Encoder-labeler Deep LSTM | 0.9566| 2018|Link|
+| BiLSTM-LSTM (focus) | 0.9579| 2018|Link|
+| Neural Sequence Chunking | 0.9586 |2018 |Link|
 # Related Papers
+
+1.[Liu, B., and Lane, I. 2015. Recurrent neural network structured output prediction for spoken language understanding. In NIPS Workshop.](https://pdfs.semanticscholar.org/b75b/59f38c874a920102834c9e218c960fc35c81.pdf)
+
+
+1.[Liu, B., and Lane, I. 2015. Recurrent neural network structured output prediction for spoken language understanding. In NIPS Workshop.](https://pdfs.semanticscholar.org/b75b/59f38c874a920102834c9e218c960fc35c81.pdf)
+
+
+1.[Yao, Kaisheng, et al. "Spoken language understanding using long short-term memory neural networks." Spoken Language Technology Workshop (SLT), 2014 IEEE. IEEE, 2014.](https://groups.csail.mit.edu/sls/publications/2014/Zhang_SLT_2014.pdf)
+
 1.["Recurrent neural networks for language understanding."](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
 
 2.[ Mesnil, Grégoire, et al. "Using recurrent neural networks for slot filling in spoken language understanding." IEEE/ACM Transactions on Audio, Speech, and Language Processing 2015](https://ieeexplore.ieee.org/abstract/document/6998838)
