@@ -4,7 +4,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 # Performance
 | Methods | F1 | Author| Published Address |Paper|
-| ------ | ------ |------ |------ |------ |
+| ------ | ------ |------ |------------ |------ |
 | Simple RNN | 0.9411 |Yao, Kaisheng, et al. |Interspeech 2013|["Recurrent neural networks for language understanding."](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)|
 | CNN-CRF | 0.9435 | zzw|2018 |2018|
 |  LSTM | 0.9485 |zzw |2018 |2018|
