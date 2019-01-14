@@ -13,7 +13,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 | RNN-EM | 0.9525 |2018 |Link|
 | Bi-RNN with ranking loss | 0.9547| 2018|Link|
 | Sequential CNN | 0.9561|2018 |Link|
-| Encoder-labeler Deep LSTM | 0.9566| 2018|Link|
+| Encoder-labeler Deep LSTM | 0.9566| das|Link|
 | BiLSTM-LSTM (focus) | 0.9579| 2018|Link|
 | Neural Sequence Chunking | 0.9586 |2018 |Link|
 # Related Papers
