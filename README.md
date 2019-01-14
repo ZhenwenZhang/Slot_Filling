@@ -6,6 +6,8 @@ This repo mainly summary latest research advances on semantic slot filling.
 1.[ Yao, Kaisheng, et al. "Recurrent neural networks for language understanding." Interspeech 2013.](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
 
 - **Model**
+    ![Model Structure](imgs/1.png)
+- **DataSet**
 
 - **Experiment Result**
 
