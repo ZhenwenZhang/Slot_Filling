@@ -2,11 +2,10 @@
 
 This repo mainly summary latest research advances on semantic slot filling.
 
+对于标题#Hello
+正确的链接方式是[Hello](#hello)
+
 # Performance
-<a herf='#1'>1</a>
-
-<a name="1">第一段</a>
-
 | Methods | F1 |
 | ------ | ------ |
 | Simple RNN | 0.9411 |
