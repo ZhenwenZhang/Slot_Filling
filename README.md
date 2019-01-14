@@ -4,6 +4,8 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 # Performance
 
+#### Note: these results from ATIS dataset.
+
 | Methods | F1 | Published Address |
 | ------ | ------ |------ |
 | Simple RNN | 0.9411 |Interspeech, 2013|
