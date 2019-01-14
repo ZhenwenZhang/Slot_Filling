@@ -3,6 +3,7 @@
 This repo mainly summary latest research advances on semantic slot filling.
 
 # Performance
+
 | Methods | F1 | Published Address |Paper|
 | ------ | ------ |------ |------------ |
 | Simple RNN | 0.9411 |Interspeech, 2013|Link|
@@ -11,13 +12,22 @@ This repo mainly summary latest research advances on semantic slot filling.
 | RNN-SOP | 0.9489 |NIPS Workshop,2015 |Link|
 | Deep LSTM | 0.9508  | SLT Workshop,2014|Link|
 | RNN-EM | 0.9525 |arXiv,2015 |Link|
-| Bi-RNN with ranking loss | 0.9547| 2018|Link|
-| Sequential CNN | 0.9561|2018 |Link|
-| Encoder-labeler Deep LSTM | 0.9566| das|Link|
-| BiLSTM-LSTM (focus) | 0.9579| 2018|Link|
-| Neural Sequence Chunking | 0.9586 |2018 |Link|
+| Bi-RNN with ranking loss | 0.9547| ICASSP,2016|Link|
+| Sequential CNN | 0.9561|Interspeech,2016 |Link|
+| Encoder-labeler Deep LSTM | 0.9566| EMNLP, 2016|Link|
+| BiLSTM-LSTM (focus) | 0.9579| ICASSP, 2017|Link|
+| Neural Sequence Chunking | 0.9586 |AAAI，2017 |Link|
+
 # Related Papers
 
+1.[Zhai, Feifei, et al. "Neural Models for Sequence Chunking." AAAI. 2017.](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262)
+
+[Zhu, Su, and Kai Yu. "Encoder-decoder with focus-mechanism for sequence labelling based spoken language understanding." 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.](https://ieeexplore.ieee.org/abstract/document/7953243)
+
+[Vu, Ngoc Thang. "Sequential convolutional neural networks for slot filling in spoken language understanding." arXiv preprint arXiv:1606.07783 (2016).](https://arxiv.org/abs/1606.07783.pdf)
+
+
+[Vu, Ngoc Thang, et al. "Bi-directional recurrent neural network with ranking loss for spoken language understanding." Acoustics, Speech and Signal Processing (ICASSP), 2016 IEEE International Conference on. Ieee, 2016.](https://ieeexplore.ieee.org/abstract/document/7472841)
 
 
  [Peng, Baolin, and Kaisheng Yao. "Recurrent neural networks with external memory for language understanding." arXiv preprint arXiv:1506.00195 (2015).](https://arxiv.org/abs/1506.00195.pdf)
