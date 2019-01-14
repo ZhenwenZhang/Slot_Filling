@@ -10,7 +10,7 @@ This repo mainly summary latest research advances on semantic slot filling.
     ![Model Structure](imgs/1.png)
 - **DataSet**
     - ATIS 
-    - CQUD (Chinese Question Understanding Dataset)
+    - CQUD (Chinese Question Understanding Dataset)
 - **Experiment Result**
 
 ![](imgs/2.png)
