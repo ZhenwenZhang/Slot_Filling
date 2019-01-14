@@ -6,7 +6,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 | Methods | F1 | Published Address |Paper|
 | ------ | ------ |------ |------------ |
-| Simple RNN | 0.9411 |Interspeech, 2013|[Link](#1.[Zhai, Feifei, et al. "Neural Models for Sequence Chunking." AAAI. 2017.](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262))|
+| Simple RNN | 0.9411 |Interspeech, 2013|[Link](#1)|
 | CNN-CRF | 0.9435 | ASRU,2013 |Link|
 |  LSTM | 0.9485 |SLT Workshop,2014 |Link|
 | RNN-SOP | 0.9489 |NIPS Workshop,2015 |Link|
@@ -20,7 +20,8 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 # Related Papers
 
-#### 1.[Zhai, Feifei, et al. "Neural Models for Sequence Chunking." AAAI. 2017.](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262)
+### 1 234239084923
+#### 2.[Zhai, Feifei, et al. "Neural Models for Sequence Chunking." AAAI. 2017.](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262)
 
 [Zhu, Su, and Kai Yu. "Encoder-decoder with focus-mechanism for sequence labelling based spoken language understanding." 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.](https://ieeexplore.ieee.org/abstract/document/7953243)
 
