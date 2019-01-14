@@ -5,6 +5,10 @@ This repo mainly summary latest research advances on semantic slot filling.
 # Related Papers
 1.[ Yao, Kaisheng, et al. "Recurrent neural networks for language understanding." Interspeech 2013.](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_2524.pdf)
 
+- **Model**
+
+- **Experiment Result**
+
 2.[ Mesnil, Grégoire, et al. "Using recurrent neural networks for slot filling in spoken language understanding." IEEE/ACM Transactions on Audio, Speech, and Language Processing 2015](https://ieeexplore.ieee.org/abstract/document/6998838)
 
 3.[ Kurata, Gakuto, et al. "Leveraging sentence-level information with encoder lstm for semantic slot filling." EMNLP 2016](https://arxiv.org/abs/1601.01530.pdf)
