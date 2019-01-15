@@ -6,20 +6,21 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 #### Note: these results from ATIS dataset.
 
-| Methods | F1 | Published Address |
-| ------ | ------ |------ |
-| Simple RNN | 0.9411 |Interspeech, 2013|
-| CNN-CRF | 0.9435 | ASRU,2013 |
-|  LSTM | 0.9485 |SLT Workshop,2014 |
-| RNN-SOP | 0.9489 |NIPS Workshop,2015 |
-| Deep LSTM | 0.9508  | SLT Workshop,2014|
-| RNN-EM | 0.9525 |arXiv,2015 |
-| Bi-RNN with ranking loss | 0.9547| ICASSP,2016|
-| Sequential CNN | 0.9561|Interspeech,2016 |
-| Encoder-labeler Deep LSTM | 0.9566| EMNLP, 2016|
-| BiLSTM-LSTM (focus) | 0.9579| ICASSP, 2017|Link|
-| Neural Sequence Chunking | 0.9586 |AAAI，2017 |
-| Bi-model with a decoder | 0.9689 |NAACL-HLT, 2018 |
+| Model | F1 Score | Intent Accuracy | Year |
+| ------ | ------ |------ |------ |
+|Recursive NN  | 0.9396 | 0.954 |Guo et al. 2014 |
+|Joint model with recurrent intent and slot label context  | 0.9447 | 0.984 | Liu and Lane, 2016b |
+|Joint model with recurrent slot label context  | 0.9464 |  0.984 | Liu and Lane, 2016b |
+|RNN with Label Sampling  | 0.9489 | NA | Liu and Lane, 2015 |
+| Hybrid RNN | 0.9506 | NA | Mesnil et al., 2015 |
+| RNN-EM | 0.9525 |  NA  | Peng and Yao, 2015 |
+| CNN-CRF | 0.9435 | NA  | Xu and Sarikaya, 2013 |
+| Encoder-labeler Deep LSTM | 0.9566 | NA  | Kurata et al., 2016 |
+| Joint GRU model(W) | 0.9549 | 0.9810  |Zhang and Wang, 2016|
+| Attention Encoder-Decoder NN | 0.9587 | 0.9843 | Liu and Lane, 2016a|
+| Bi-model with a decoder | 0.9665 | 0.9876  | Wang and Shen, 2018 |
+| Bi-model with a decoder | 0.9689 | 0.9899  | Wang and Shen, 2018 |
+
 
 # Related Papers
 #### 2010
@@ -71,8 +72,11 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 - [Wang, Yu, Yilin Shen, and Hongxia Jin. "A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). Vol. 2. 2018.](http://www.aclweb.org/anthology/N18-2050)
 
-#### 2019
 - [ Gong, Yu, et al. "Deep Cascade Multi-task Learning for Slot Filling in Online Shopping Assistant." 2019](http://www.cs.sjtu.edu.cn/~kzhu/papers/kzhu-slot.pdf)
+
+
+
+
 
 
 
