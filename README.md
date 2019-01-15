@@ -19,6 +19,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 | Encoder-labeler Deep LSTM | 0.9566| EMNLP, 2016|
 | BiLSTM-LSTM (focus) | 0.9579| ICASSP, 2017|Link|
 | Neural Sequence Chunking | 0.9586 |AAAI，2017 |
+| Bi-model with a decoder | 0.9689 |NAACL-HLT, 2018 |
 
 # Related Papers
 #### 2010
@@ -67,6 +68,8 @@ This repo mainly summary latest research advances on semantic slot filling.
 - [ Constantin, Stefan, Jan Niehues, and Alex Waibel. "Multi-task learning to improve natural language understanding." 2018](https://arxiv.org/abs/1812.06876.pdf)
 
 - [ Zhao, Lin, and Zhe Feng. "Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention." ACL 2018](http://www.aclweb.org/anthology/P18-2068)
+
+- [Wang, Yu, Yilin Shen, and Hongxia Jin. "A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). Vol. 2. 2018.](http://www.aclweb.org/anthology/N18-2050)
 
 #### 2019
 - [ Gong, Yu, et al. "Deep Cascade Multi-task Learning for Slot Filling in Online Shopping Assistant." 2019](http://www.cs.sjtu.edu.cn/~kzhu/papers/kzhu-slot.pdf)
