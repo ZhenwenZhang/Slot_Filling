@@ -18,7 +18,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 | Encoder-labeler Deep LSTM | 0.9566 | NA  | Kurata et al., 2016 |
 | Joint GRU model(W) | 0.9549 | 0.9810  |Zhang and Wang, 2016|
 | Attention Encoder-Decoder NN | 0.9587 | 0.9843 | Liu and Lane, 2016a|
-| Bi-model with a decoder | 0.9665 | 0.9876  | Wang and Shen, 2018 |
+| Bi-model without a decoder | 0.9665 | 0.9876  | Wang and Shen, 2018 |
 | Bi-model with a decoder | 0.9689 | 0.9899  | Wang and Shen, 2018 |
 
 
