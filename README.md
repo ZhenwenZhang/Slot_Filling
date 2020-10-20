@@ -4,7 +4,7 @@ This repo mainly summary latest research advances on semantic slot filling.
 
 ---
 
-Note, this repo will not be updated!
+*Thank you pay attention to the repo and it will not be updated!*
 
 # Performance
 
