@@ -2,6 +2,10 @@
 
 This repo mainly summary latest research advances on semantic slot filling.
 
+---
+
+Note, this repo will not be updated!
+
 # Performance
 
 #### Note: these results from ATIS dataset.
